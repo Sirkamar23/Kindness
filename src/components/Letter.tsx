@@ -31,8 +31,8 @@ function Stamp() {
           <rect width="80" height="96" fill="#faf5ea" />
           <rect x="7" y="7" width="66" height="70" fill="#1a2350" />
           <circle cx="56" cy="22" r="6" fill="#ece6d3" />
-          <path d="M7 77 L28 50 C33 44 37 42 41 44 C44 46 48 50 54 56 L60 52 L73 64 L73 77 Z" fill="#2c3a78" />
-          <path d="M33 47 C36 44 39 43 41 44 L44 47 L40 48 L37 46 L35 49 Z" fill="#dfe6fb" opacity="0.8" />
+          <path d="M7 77 L 18 63 C 21 59 23 57 24 57 C 26 57 28 59 31 62 L 34 60 C 40 50 46 42 50 41 C 54 42 60 50 73 70 L 73 77 Z" fill="#2c3a78" />
+          <path d="M45 46 C 47 43 49 41 50 41 C 52 41 54 43 56 46 L 53 47 L 50 45 L 47 47 Z" fill="#dfe6fb" opacity="0.8" />
           <text x="40" y="88" textAnchor="middle" fontFamily="'Noto Serif Armenian', serif" fontSize="7.5" letterSpacing="1" fill="#1a2350">
             ՀԱՅԱՍՏԱՆ
           </text>
